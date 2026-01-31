@@ -1,0 +1,42 @@
+commit db83bd2ab94765196398e50beb9ef942b6e9a9c5
+Merge: 71e3889 369f677
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 10:17:26 2026 -0800
+
+    Resolve merge conflict in index.html
+
+commit 369f677801f6eb4a06e4cc4fbbe1ab78de918e3b
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 10:12:34 2026 -0800
+
+    Add favorite movie/game div
+
+commit 71e3889c912170017bf94c85f9c2b67428ff8a92
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 10:10:19 2026 -0800
+
+    Add favorite food div
+
+commit 40dacce8da07079461ee5ca69a10a9b655ba6638
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 10:07:23 2026 -0800
+
+    Add README describing repository
+
+commit ab63202fcd5d142d934c98279e211e31049e317e
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 10:04:30 2026 -0800
+
+    Add README describing repository
+
+commit b7e4e5d490105babb8a6fff5dac830dd32eae325
+Author: jbobad15 <jbobad15@calstatela.edu>
+Date:   Sat Jan 31 09:54:27 2026 -0800
+
+    Filled in info fields in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
